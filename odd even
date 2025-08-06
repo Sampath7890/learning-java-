@@ -1,0 +1,21 @@
+/*Check if the given number is odd or even  
+Sample Input=10
+Sample Output=10 is even.
+
+Sample Input=7
+Sample Output=7 is odd.
+ */
+
+
+import java.util.Scanner;
+public class Test {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        if(n%2==0){
+            System.out.println(n + " is even.");
+        } else {
+            System.out.println(n +" is odd.");
+        }
+    }
+}
