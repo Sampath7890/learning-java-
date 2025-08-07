@@ -12,5 +12,3 @@
 - Build mini projects
 - Collaborate on beginner-friendly repos
 
-## 📫 Connect with me
-- GitHub: [github.com/sampathkumar](https://github.com/sampathkumar)
