@@ -1,0 +1,16 @@
+import java.util.*;
+public class Main{
+  public static void main(String[] args){
+   String sam = "sampath";
+   char letter = 'a';
+   int number = 123456789;
+   String name2 = "krishna ";
+   String name3 = name2.replace('s','a');
+   String name = "my name is sampath";
+   String name4 = "Krishna and Sampath";
+   System.out.println("hi"+sam+letter+number);
+   System.out.println(name.length());
+   System.out.println(name3);
+   System.out.println(name4.substring(0,8));
+  }
+}
